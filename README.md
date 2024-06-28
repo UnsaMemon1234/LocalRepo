@@ -1,2 +1,1 @@
-#this is my first Repo file
-git
+# This is my first Repo file. Created by Unsa Memon.
